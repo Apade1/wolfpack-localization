@@ -131,7 +131,7 @@
     },
     {
       "key": 31,
-      "value": "Spieler"
+      "value": "Spiel"
     },
     {
       "key": 32,
@@ -239,7 +239,7 @@
     },
     {
       "key": 58,
-      "value": "Normal"
+      "value": "Mittel"
     },
     {
       "key": 59,
@@ -259,7 +259,7 @@
     },
     {
       "key": 63,
-      "value": "Maximal"
+      "value": "Max"
     },
     {
       "key": 64,
@@ -295,7 +295,7 @@
     },
     {
       "key": 72,
-      "value": "QuickInfos anzeigen"
+      "value": "Tooltips anzeigen"
     },
     {
       "key": 73,
@@ -347,7 +347,7 @@
     },
     {
       "key": 85,
-      "value": "Blenden"
+      "value": "Lichtüberstrahlung"
     },
     {
       "key": 86,
@@ -415,11 +415,11 @@
     },
     {
       "key": 102,
-      "value": "Einfach"
+      "value": "Casual"
     },
     {
       "key": 103,
-      "value": "Schwer"
+      "value": "Hardcore"
     },
     {
       "key": 104,
@@ -431,7 +431,7 @@
     },
     {
       "key": 106,
-      "value": "Mittel"
+      "value": "Normal"
     },
     {
       "key": 107,
@@ -575,7 +575,7 @@
     },
     {
       "key": 142,
-      "value": "Schnelle Begegnung"
+      "value": "Kurzgefecht"
     },
     {
       "key": 143,
@@ -599,11 +599,11 @@
     },
     {
       "key": 148,
-      "value": "Realistische Nachladegeschwindigkeit für Torpedos"
+      "value": "Realistische Torpedo Nachladegeschwindigkeit"
     },
     {
       "key": 149,
-      "value": "Defekte Torpedos"
+      "value": "Torpedoversager"
     },
     {
       "key": 150,
@@ -611,7 +611,7 @@
     },
     {
       "key": 151,
-      "value": "Torpedoauslösung ist winkelabhängig"
+      "value": "Winkelabhängige Torpedoauslösung"
     },
     {
       "key": 152,
@@ -659,614 +659,626 @@
     },
     {
       "key": 163,
-      "value": "Kurz"
+      "value": "Sehr groß"
     },
     {
       "key": 164,
-      "value": "Lang"
+      "value": "Kurz"
     },
     {
       "key": 165,
-      "value": "Ziele"
+      "value": "Lang"
     },
     {
       "key": 166,
-      "value": "Klicke, um die Missionen im Steam Workshop zu durchsuchen"
+      "value": "Operationsziele"
     },
     {
       "key": 167,
-      "value": "Auftrag in die Zwischenablage exportieren"
+      "value": "Klicke, um die Missionen im Steam Workshop zu durchsuchen"
     },
     {
       "key": 168,
-      "value": "Mission aus der Zwischenablage importieren"
+      "value": "Mission aus der Zwischenablage exportieren."
     },
     {
       "key": 169,
-      "value": "Übersicht"
+      "value": "Mission aus der Zwischenablage importieren."
     },
     {
       "key": 170,
-      "value": "Details"
+      "value": "Übersicht"
     },
     {
       "key": 171,
-      "value": "Während der Mission entdeckt"
+      "value": "Details"
     },
     {
       "key": 172,
-      "value": "Torpedos abgefeuert"
+      "value": "Entdeckt während Mission"
     },
     {
       "key": 173,
-      "value": "Torpedos getroffen"
+      "value": "Torpedos abgefeuert"
     },
     {
       "key": 174,
-      "value": "Torpedo-Trefferrate"
+      "value": "Torpedos getroffen"
     },
     {
       "key": 175,
-      "value": "Zerstörte Frachtschiffe"
+      "value": "Torpedotreffer über Funk gemeldet"
     },
     {
       "key": 176,
-      "value": "Zerstörte Kriegsschiffe"
+      "value": "Versenkte Handelsschiffe"
     },
     {
       "key": 177,
-      "value": "Versenkte Tonnage"
+      "value": "Versenkte Kriegsschiffe"
     },
     {
       "key": 178,
-      "value": "Einsatzzeit"
+      "value": "Versenkte Tonnage"
     },
     {
       "key": 179,
-      "value": "In die Zwischenablage kopieren"
+      "value": "Missionszeit"
     },
     {
       "key": 180,
-      "value": "Zurück zur Lobby"
+      "value": "In Zwischenablage exportieren"
     },
     {
       "key": 181,
-      "value": "Mission wiederholen"
+      "value": "Zurück zur Lobby"
     },
     {
       "key": 182,
-      "value": "Nächste Mission"
+      "value": "Mission wiederholen"
     },
     {
       "key": 183,
-      "value": "Verbindung trennen"
+      "value": "Nächste Mission"
     },
     {
       "key": 184,
-      "value": "Tastenbelegung zurücksetzen"
+      "value": "Verbindung trennen"
     },
     {
       "key": 185,
-      "value": "Vorwärts bewegen"
+      "value": "Tastaturbelegung zurücksetzen"
     },
     {
       "key": 186,
-      "value": "Nach links bewegen"
+      "value": "Vorwärts bewegen"
     },
     {
       "key": 187,
-      "value": "Rückwärts bewegen"
+      "value": "Nach links bewegen"
     },
     {
       "key": 188,
-      "value": "Nach rechts bewegen"
+      "value": "Rückwärts bewegen"
     },
     {
       "key": 189,
-      "value": "Rennen"
+      "value": "Nach rechts bewegen"
     },
     {
       "key": 190,
-      "value": "Karte öffnen/schließen"
+      "value": "Rennen"
     },
     {
       "key": 191,
-      "value": "Verbundene Spieler anzeigen"
+      "value": "Karte anzeigen"
     },
     {
       "key": 192,
-      "value": "1. Stoppuhr umschalten"
+      "value": "Zeige verbundene Einheiten"
     },
     {
       "key": 193,
-      "value": "2. Stoppuhr umschalten"
+      "value": "1. Stoppuhr umschalten"
     },
     {
       "key": 194,
-      "value": "3. Stoppuhr umschalten"
+      "value": "2. Stoppuhr umschalten"
     },
     {
       "key": 195,
-      "value": "4. Stoppuhr umschalten"
+      "value": "3. Stoppuhr umschalten"
     },
     {
       "key": 196,
-      "value": "1. Stoppuhr zurücksetzen"
+      "value": "4. Stoppuhr umschalten"
     },
     {
       "key": 197,
-      "value": "2. Stoppuhr zurücksetzen"
+      "value": "1. Stoppuhr zurücksetzen"
     },
     {
       "key": 198,
-      "value": "3. Stoppuhr zurücksetzen"
+      "value": "2. Stoppuhr zurücksetzen"
     },
     {
       "key": 199,
-      "value": "4. Stoppuhr zurücksetzen"
+      "value": "3. Stoppuhr zurücksetzen"
     },
     {
       "key": 200,
-      "value": "Alle Stoppuhren zurücksetzen"
+      "value": "4. Stoppuhr zurücksetzen"
     },
     {
       "key": 201,
-      "value": "Torpedo abschießen"
+      "value": "Alle Stoppuhren zurücksetzen"
     },
     {
       "key": 202,
-      "value": "Vorderes Tiefenruder nach unten"
+      "value": "Torpedoschuss (Los!)"
     },
     {
       "key": 203,
-      "value": "Vorderes Tiefenruder nach oben"
+      "value": "Vorderes Tiefenruder niederlegen"
     },
     {
       "key": 204,
-      "value": "Achteres Tiefenruder nach unten"
+      "value": "Vorderes Tiefenruder aufholen"
     },
     {
       "key": 205,
-      "value": "Achteres Tiefenruder nach oben"
+      "value": "Achteres Tiefenruder niederlegen"
     },
     {
       "key": 206,
-      "value": "Taschenlampe umschalten"
+      "value": "Achteres Tiefenruder aufholen"
     },
     {
       "key": 207,
-      "value": "Erkennungshandbuch umschalten"
+      "value": "Bordtaschenlampe umschalten"
     },
     {
       "key": 208,
-      "value": "Farbe der Taschenlampe umschalten"
+      "value": "Schiffserkennungsbuch umschalten"
     },
     {
       "key": 209,
-      "value": "Missionsziele anzeigen"
+      "value": "Lichtfarbe umschalten (Rot/Weiß)"
     },
     {
       "key": 210,
-      "value": "Vorderes Tiefenruder Mitte"
+      "value": "Einsatzziele anzeigen"
     },
     {
       "key": 211,
-      "value": "Hinteres Tiefenruder Mitte"
+      "value": "Vorderes Tiefenruder mittschiffs"
     },
     {
       "key": 212,
-      "value": "Morsetaste"
+      "value": "Achteres Tiefenruder mittschiffs"
     },
     {
       "key": 213,
-      "value": "Morsezeichen 'Kurz'"
+      "value": "Morsetaste"
     },
     {
       "key": 214,
-      "value": "Morsezeichen 'Lang'"
+      "value": "Morsesignal (kurz)"
     },
     {
       "key": 215,
-      "value": "Kontinuierlich Kurz"
+      "value": "Morsesignal (lang)"
     },
     {
       "key": 216,
-      "value": "Kontinuierlich Lang"
+      "value": "Dauersignal (lang)"
     },
     {
       "key": 217,
-      "value": "Nächste Seite"
+      "value": "Dauersignal (kurz)"
     },
     {
       "key": 218,
-      "value": "Vorherige Seite"
+      "value": "Nächstes Funkblatt"
     },
     {
       "key": 219,
-      "value": "Stummschalten"
+      "value": "Vorheriges Funkblatt"
     },
     {
       "key": 220,
-      "value": "Bot-Menü umschalten"
+      "value": "Sprachchat stummschalten"
     },
     {
       "key": 221,
-      "value": "Bot-Menü (1)"
+      "value": "Kommandomenü (Kameraden) umschalten"
     },
     {
       "key": 222,
-      "value": "Bot-Menü (2)"
+      "value": "Kommandomenü (1)"
     },
     {
       "key": 223,
-      "value": "Bot-Menü (3)"
+      "value": "Kommandomenü (2)"
     },
     {
       "key": 224,
-      "value": "Kilometerzähler zurücksetzen"
+      "value": "Kommandomenü (3)"
     },
     {
       "key": 225,
-      "value": "Markierung"
+      "value": "Meilenstromrechner zurücksetzen"
     },
     {
       "key": 226,
-      "value": "Lineal"
+      "value": "Kartenwerkzeug: Eintragen"
     },
     {
       "key": 227,
-      "value": "Kompass"
+      "value": "Maßstab/Lineal"
     },
     {
       "key": 228,
-      "value": "Notizen"
+      "value": "Stechzirkel"
     },
     {
       "key": 229,
-      "value": "Kopieren"
+      "value": "Bleistift"
     },
     {
       "key": 230,
-      "value": "Radiergummi"
+      "value": "Kurslinie parallelverschieben"
     },
     {
       "key": 231,
-      "value": "Winkelmesser"
+      "value": "Radiergummi"
     },
     {
       "key": 232,
-      "value": "Quicktool: Symbol"
+      "value": "Kursdreieck/Winkelmesser"
     },
     {
       "key": 233,
-      "value": "Quicktool: Linie"
+      "value": "Schnellwerkzeug: Eintragen"
     },
     {
       "key": 234,
-      "value": "Quicktool: Kreis"
+      "value": "Schnellwerkzeug: Linie"
     },
     {
       "key": 235,
-      "value": "Quicktool: Zeile kopieren"
+      "value": "Schnellwerkzeug: Kreis"
     },
     {
       "key": 236,
-      "value": "Quicktool: Radierer"
+      "value": "Schnellwerkzeug: Parallelverschiebung"
     },
     {
       "key": 237,
-      "value": "Quicktool: Winkelmesser"
+      "value": "Schnellwerkzeug: Radierer"
     },
     {
       "key": 238,
-      "value": "Skizze umschalten"
+      "value": "Schnellwerkzeug: Kursdreieck"
     },
     {
       "key": 239,
-      "value": "Winkelmesser folgen"
+      "value": "Karte: Koppelnavigation umschalten"
     },
     {
       "key": 240,
-      "value": "Kompassausrichtung umschalten"
+      "value": "Kursdreieck - Kurs folgen"
     },
     {
       "key": 241,
-      "value": "Zeitmodus umschalten"
+      "value": "Karte: Kompassrose invertieren"
     },
     {
       "key": 242,
-      "value": "Winkel anzeigen"
+      "value": "Karte: Zeitrechnung umschalten"
     },
     {
       "key": 243,
-      "value": "Snap umschalten"
+      "value": "Karte: Peilwinkel anzeigen"
     },
     {
       "key": 244,
-      "value": "Entfernung anzeigen"
+      "value": "Karte: Am Raster ausrichten"
     },
     {
       "key": 245,
-      "value": "Symbole anzeigen"
+      "value": "Karte: Distanz anzeigen"
     },
     {
       "key": 246,
-      "value": "Winkelmesser zurücksetzen"
+      "value": "Karte: Taktisches Symbol"
     },
     {
       "key": 247,
-      "value": "Von Kartenmitte zeichnen"
+      "value": "Karten-Reset: Kursdreieck ausrichten"
     },
     {
       "key": 248,
-      "value": "Polylinie umschalten"
+      "value": "Karte: Vom Mittelpunkt zeichnen"
     },
     {
       "key": 249,
-      "value": "Linienart umschalten"
+      "value": "Karte: Streckennetz/Polylinie"
     },
     {
       "key": 250,
-      "value": "Winkelmesser anzeigen"
+      "value": "Karte: Linienstil"
     },
     {
       "key": 251,
-      "value": "Winkel vor Entfernung eingeben"
+      "value": "Karte: Kursdreieck anzeigen"
     },
-    {
-      "key": 252,
-      "value": "Periskop-Overlay umschalten"
-    },
-    {
-      "key": 253,
-      "value": "Periskop-Overlay tauschen"
-    },
-    {
-      "key": 254,
-      "value": "Periskop-Overlay vergrößern X 1"
-    },
-    {
-      "key": 255,
-      "value": "Periskop-Overlay verkleinern X 1"
-    },
-    {
-      "key": 256,
-      "value": "Periskop-Overlay vergrößern X 10"
-    },
-    {
-      "key": 257,
-      "value": "Periskop-Overlay verkleinern X 10"
-    },
-    {
-      "key": 258,
-      "value": "Helligkeit erhöhen"
-    },
-    {
-      "key": 259,
-      "value": "Helligkeit verringern"
-    },
-    {
-      "key": 260,
-      "value": "Notizbuch umschalten"
-    },
-    {
-      "key": 261,
-      "value": "Besatzung"
-    },
-    {
-      "key": 262,
-      "value": "Beladung"
-    },
-    {
-      "key": 263,
-      "value": "Besatzung verlassen"
-    },
-    {
-      "key": 264,
-      "value": "Besatzung beitreten"
-    },
-    {
-      "key": 265,
-      "value": "Beitreten"
-    },
-    {
-      "key": 266,
-      "value": "Besatzung ist vollständig"
-    },
-    {
-      "key": 267,
-      "value": "Nickname"
-    },
-    {
-      "key": 268,
-      "value": "Community"
-    },
-    {
-      "key": 269,
-      "value": "Einen Fehler melden"
-    },
-    {
-      "key": 270,
-      "value": "Besatzungsoptionen"
-    },
-    {
-      "key": 271,
-      "value": "Bannlisten-Optionen"
-    },
-    {
-      "key": 272,
-      "value": "Aktivitätsprotokoll"
-    },
-    {
-      "key": 273,
-      "value": "Zurück zum Spiel"
-    },
-    {
-      "key": 274,
-      "value": "Spiel verlassen"
-    },
-    {
-      "key": 275,
-      "value": "Metadaten"
-    },
-    {
-      "key": 276,
-      "value": "Startbedingungen"
-    },
-    {
-      "key": 277,
-      "value": "Siegesbedingungen"
-    },
-    {
-      "key": 278,
-      "value": "Ziele"
-    },
-    {
-      "key": 279,
-      "value": "Immer anzeigen"
-    },
-    {
-      "key": 280,
-      "value": "Bei Fertigstellung anzeigen"
-    },
-    {
-      "key": 281,
-      "value": "Immer versteckt"
-    },
-    {
-      "key": 282,
-      "value": "Erhöht oder verringert die Gesamtlautstärke des Spiels unter Beibehaltung des Verhältnisses zwischen den verschiedenen Lautstärken."
-    },
-    {
-      "key": 283,
-      "value": "Regelt die Lautstärke der Musik."
-    },
-    {
-      "key": 284,
-      "value": "Regelt die Lautstärke verschiedener Effekte, wie z. B. Explosionen und ähnliches."
-    },
-    {
-      "key": 285,
-      "value": "Regelt die Lautstärke des eingehenden Voice-Chats."
-    },
-    {
-      "key": 286,
-      "value": "Zeigt den Eingangslautstärkepegel Ihres Mikrofons an."
-    },
-    {
-      "key": 287,
-      "value": "Push-To-Talk schaltet Ihr Mikrofon ein und aus, wenn die entsprechende Taste gedrückt wird."
-    },
-    {
-      "key": 288,
-      "value": "Aktivieren, um einen Hinweis darauf anzuzeigen, ob Ihr Mikrofon aktiviert ist oder nicht."
-    },
-    {
-      "key": 289,
-      "value": "Deaktivieren, um den Morsetoneffekt bei Verwendung der Morsetaste abzuschalten."
-    },
-    {
-      "key": 290,
-      "value": "Verschlüsselte Nachricht"
-    },
-    {
-      "key": 291,
-      "value": "Nachricht speichern"
-    },
-    {
-      "key": 292,
-      "value": "Nachricht als gesendet markieren"
-    },
-    {
-      "key": 293,
-      "value": "Entschlüsselte Nachricht"
-    },
-    {
-      "key": 294,
-      "value": "Kanal"
-    },
-    {
-      "key": 295,
-      "value": "Von"
-    },
-    {
-      "key": 296,
-      "value": "Zu"
-    },
-    {
-      "key": 297,
-      "value": "Abbrechen"
-    },
-    {
-      "key": 298,
-      "value": "Senden"
-    },
-    {
-      "key": 299,
-      "value": "Speichern"
-    },
-    {
-      "key": 300,
-      "value": "Löschen"
-    },
-    {
-      "key": 301,
-      "value": "Rundfunk"
-    },
-    {
-      "key": 302,
-      "value": "U-96"
-    },
-    {
-      "key": 303,
-      "value": "U-552"
-    },
-    {
-      "key": 304,
-      "value": "U-564"
-    },
-    {
-      "key": 305,
-      "value": "U-307"
-    },
-    {
-      "key": 306,
-      "value": "U-98"
-    },
-    {
-      "key": 307,
-      "value": "U-371"
-    },
-    {
-      "key": 308,
-      "value": "U-706"
+	{
+		"key": 252,
+		"value": "Karte: Winkel vor Entfernung eingeben"
+	},
+	{
+		"key": 253,
+		"value": "Sehrohr-Strichplatte umschalten"
+	},
+	{
+		"key": 254,
+		"value": "Sehrohr-Strichplatte wechseln"
+	},
+	{
+		"key": 255,
+		"value": "Sehrohr-Strichplatte X +1"
+	},
+	{
+		"key": 256,
+		"value": "Sehrohr-Strichplatte X -1"
+	},
+	{
+		"key": 257,
+		"value": "Sehrohr-Strichplatte X +10"
+	},
+	{
+		"key": 258,
+		"value": "Sehrohr-Strichplatte X -10"
+	},
+	{
+		"key": 259,
+		"value": "Sehrohr-Helligkeit erhöhen"
+	},
+	{
+		"key": 260,
+		"value": "Sehrohr-Helligkeit verringern"
+	},
+	{
+		"key": 261,
+		"value": "Notizbuch umschalten"
+	},
+	{
+		"key": 262,
+		"value": "Besatzung"
+	},
+	{
+		"key": 263,
+		"value": "Ausrüstung"
+	},
+	{
+		"key": 264,
+		"value": "Besatzung verlassen"
+	},
+	{
+		"key": 265,
+		"value": "Besatzung beitreten"
+	},
+	{
+		"key": 266,
+		"value": "Beitreten"
+	},
+	{
+		"key": 267,
+		"value": "Besatzung ist voll"
+	},
+	{
+		"key": 268,
+		"value": "Spitzname"
+	},
+	{
+		"key": 269,
+		"value": "Community"
+	},
+	{
+		"key": 270,
+		"value": "Fehler melden"
+	},
+	{
+		"key": 271,
+		"value": "Besatzungsoptionen"
+	},
+	{
+		"key": 272,
+		"value": "Bannlisten-Optionen"
+	},
+	{
+		"key": 273,
+		"value": "Aktivitätsprotokoll"
+	},
+	{
+		"key": 274,
+		"value": "Fortsetzen"
+	},
+	{
+		"key": 275,
+		"value": "Spiel verlassen"
+	},
+	{
+		"key": 277,
+		"value": "Einsatz beenden (Sieg)"
+	},
+	{
+		"key": 276,
+		"value": "Einsatz abbrechen"
+	},
+	{
+		"key": 278,
+		"value": "Metadaten"
+	},
+	{
+		"key": 279,
+		"value": "Startbedingungen"
+	},
+	{
+		"key": 280,
+		"value": "Siegesbedingungen"
+	},
+	{
+		"key": 281,
+		"value": "Ziele"
+	},
+	{
+		"key": 282,
+		"value": "Immer anzeigen"
+	},
+	{
+		"key": 283,
+		"value": "Bei Erfüllung anzeigen"
+	},
+	{
+		"key": 284,
+		"value": "Immer verborgen"
+	},
+	{
+		"key": 285,
+		"value": "Regelt die Gesamtlautstärke des Spiels unter Beibehaltung des Verhältnisses der einzelnen Regler."
+	},
+	{
+		"key": 286,
+		"value": "Regelt die Lautstärke der Musik."
+	},
+	{
+		"key": 287,
+		"value": "Regelt die Lautstärke von Effekten wie Explosionen und Ähnlichem."
+	},
+	{
+		"key": 288,
+		"value": "Regelt die Lautstärke des eingehenden Voice-Chats."
+	},
+	{
+		"key": 289,
+		"value": "Zeigt den Pegel deines Mikrofoneingangs an."
+	},
+	{
+		"key": 290,
+		"value": "Push-To-Talk schaltet dein Mikrofon ein und aus, wenn die entsprechende Taste gedrückt wird."
+	},
+	{
+		"key": 291,
+		"value": "Aktivieren, um einen Hinweis anzuzeigen, wenn dein Mikrofon aktiv ist."
+	},
+	{
+		"key": 292,
+		"value": "Deaktivieren, um das Tonsignal beim Verwenden der Morsetaste abzuschalten."
+	},
+	{
+		"key": 293,
+		"value": "Verschlüsselter Funkspruch"
+	},
+	{
+		"key": 294,
+		"value": "Funkspruch speichern"
+	},
+	{
+		"key": 295,
+		"value": "Funkspruch als gesendet markieren"
+	},
+	{
+		"key": 296,
+		"value": "Entzifferter Funkspruch"
+	},
+	{
+		"key": 297,
+		"value": "Kanal"
+	},
+	{
+		"key": 298,
+		"value": "Von"
+	},
+	{
+		"key": 299,
+		"value": "An"
+	},
+	{
+		"key": 300,
+		"value": "Abbrechen"
+	},
+	{
+		"key": 301,
+		"value": "Senden"
+	},
+	{
+		"key": 302,
+		"value": "Speichern"
+	},
+	{
+		"key": 303,
+		"value": "Löschen"
+	},
+	{
+		"key": 304,
+		"value": "Rundspruch"
+	},
+	{
+	  "key": 305,
+	  "value": "U-96"
+	},
+	{
+	  "key": 306,
+	  "value": "U-552"
+	},
+	{
+  	  "key": 307,
+	  "value": "U-564"
+	},
+	{
+	  "key": 308,
+   	  "value": "U-307"
     },
     {
       "key": 309,
-      "value": "U-431"
+      "value": "U-98"
     },
     {
       "key": 310,
-      "value": "Akzeptieren"
+      "value": "U-371"
     },
     {
       "key": 311,
-      "value": "Ablehnen"
+      "value": "U-706"
     },
     {
       "key": 312,
-      "value": "Ablehnen und Ignorieren"
+      "value": "U-431"
     },
     {
       "key": 313,
-      "value": "Beitrittsanfrage akzeptieren"
+      "value": "Akzeptieren"
     },
     {
       "key": 314,
-      "value": "Beitrittsanfrage ablehnen"
+      "value": "Ablehnen"
     },
     {
       "key": 315,
+      "value": "Ablehnen und Ignorieren"
+    },
+    {
+      "key": 316,
+      "value": "Beitrittsanfrage akzeptieren"
+    },
+    {
+      "key": 317,
+      "value": "Beitrittsanfrage ablehnen"
+    },
+    {
+      "key": 318,
       "value": "Beitrittsanfrage ablehnen und ignorieren"
     }
   ],
@@ -1277,7 +1289,7 @@
     },
     {
       "key": 1,
-      "value": " kts"
+      "value": " Kn"
     },
     {
       "key": 2,
@@ -1303,7 +1315,7 @@
   "morsePairs": [
     {
       "key": 0,
-      "value": "Jeder kann empfangen"
+      "value": "An alle (CQ)"
     },
     {
       "key": 1,
@@ -1311,23 +1323,23 @@
     },
     {
       "key": 2,
-      "value": "Verstanden"
+      "value": "Verstanden (R)"
     },
     {
       "key": 3,
-      "value": "Nachricht verifiziert"
+      "value": "Spruch geprüft"
     },
     {
       "key": 4,
-      "value": "Wiederholen Sie"
+      "value": "Wiederholen"
     },
     {
       "key": 5,
-      "value": "Warte"
+      "value": "Warten (AS)"
     },
     {
       "key": 6,
-      "value": "Raus"
+      "value": "Schluss (AR)"
     },
     {
       "key": 7,
@@ -1339,15 +1351,15 @@
     },
     {
       "key": 9,
-      "value": "Over"
+      "value": "Kommen (K)"
     },
     {
       "key": 10,
-      "value": "Neue Nachricht"
+      "value": "Neuere Funkspruch"
     },
     {
       "key": 11,
-      "value": "Ende der Nachricht"
+      "value": "Spruchende"
     }
   ]
 }
